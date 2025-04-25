@@ -29,7 +29,7 @@ A client-side web application that enables natural language interaction with dat
 
 ## Screenshots
 
-[!project image1](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image1.png)
-[!project image2](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image2.png)
-[!project image3](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image3.png)
+![project image1](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image1.png)
+![project image2](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image2.png)
+![project image3](https://github.com/Jackjjr24/Ai-query-website/blob/main/images/image3.png)
 
